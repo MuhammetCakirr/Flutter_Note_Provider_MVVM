@@ -18,5 +18,5 @@
 
 *.cmake linguist-detectable=false
 
-*.c++ linguist-detectable=false
+*.cplus linguist-detectable=false
 
